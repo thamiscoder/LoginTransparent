@@ -5,5 +5,4 @@ function login() {
 
     console.log(userName);
     console.log(passWord);
-
 }
