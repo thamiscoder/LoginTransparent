@@ -4,6 +4,6 @@ function login() {
     const passWord = inputs[1].value;
 
     console.log(userName);
-    
+    console.log(passWord);
 
 }
