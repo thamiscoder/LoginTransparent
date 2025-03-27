@@ -3,6 +3,7 @@ function login() {
     const userName = inputs[0].value;
     const passWord = inputs[1].value;
 
+    console.log(userName);
     
 
 }
